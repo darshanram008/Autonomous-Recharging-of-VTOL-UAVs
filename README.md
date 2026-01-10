@@ -7,7 +7,7 @@ This project implements a concpet demonstartion of a fully autonomous workflow w
 The concept protoype is implemnetd on a F450  drone frame, carrying a Pixhawk with ArduPilot firmware and landing algorithms running on Lua scripts, the charging pad has contacts instead of wireless charging to reduce energy wastage and improve the speed of the charging (😅 Its a silly idea but has its own advantage). 
 This work is published in *Cogent Engineering (2025)😄*.  
 **DOI:** https://doi.org/10.1080/23311916.2025.2490529
-The presentation and video demonstartion can be found [here](https://www.canva.com/design/DAFaGJnR2SM/KS8v1EFg4Ng5H95vCfM0ig/edit?utm_content=DAFaGJnR2SM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+The presentation and video demonstration can be found [here](https://www.canva.com/design/DAFaGJnR2SM/KS8v1EFg4Ng5H95vCfM0ig/edit?utm_content=DAFaGJnR2SM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
@@ -63,9 +63,8 @@ The charging pads are designed for **streetlight pole mounting**,that make use o
 - Real‑world accuracy: **~0.5 m**  
 - Verified autonomous land‑charge‑resume workflow  
 
----
 
-## 🛠️ System Architecture
+
 
 ---
 
